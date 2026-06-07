@@ -200,7 +200,7 @@ public class GestorConsultorio {
             }
         }
     }
-
+    // Funcionalidad de citas implementada
     private void menuCitas() {
         int opcion = 0;
         while (opcion != 4) {
