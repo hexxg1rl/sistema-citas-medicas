@@ -1,5 +1,5 @@
 package control;
-
+// Funcionalidad de doctores implementada
 import modelo.*;
 import util.ArchivoUtil;
 
