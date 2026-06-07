@@ -171,7 +171,7 @@ public class GestorConsultorio {
             System.out.println("2. Ver Lista de Pacientes");
             System.out.println("3. Regresar");
             System.out.print("Seleccione: ");
-
+// Funcionalidad de pacientes implementada
             try {
                 opcion = Integer.parseInt(scanner.nextLine());
             } catch (NumberFormatException e) {
